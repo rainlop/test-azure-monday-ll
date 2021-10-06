@@ -1,0 +1,14 @@
+body{background-color: papayawhip;}
+h1{color:orange;}
+h1{text-align:center}
+h3{color:orange}
+h2{color:orange}
+p{color:goldenrod}
+ul{color:goldenrod}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
